@@ -51,6 +51,7 @@ export default function HomeScreen() {
         </ThemedText>
       </ThemedView>
       <Link href="/home">Home</Link>
+      <Link href='/stack'>Stack</Link>
     </ParallaxScrollView>
   );
 }
